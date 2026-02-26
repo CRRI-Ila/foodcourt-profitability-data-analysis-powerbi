@@ -104,6 +104,9 @@ Multiple calculated columns were created using Power Query custom expressions:
 Custom columns allowed preprocessing calculations before loading data into the Power BI model.
 
 example PROFIT= SALES - COSTS
+
+<img width="244" height="476" alt="image" src="https://github.com/user-attachments/assets/8ccf3080-9952-46b8-9659-7bc3feb48338" />
+
 ---
 
 ## Step 7: Final Validation
