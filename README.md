@@ -2,6 +2,8 @@
 
 Power BI Data Anylitics Project
 
+https://app.powerbi.com/groups/me/reports/778d4261-770c-41ec-a041-d999a19d3af3/2adbb72c1c3a7108c40f?bookmarkGuid=6d3360d4-a230-47ba-980a-be2839befc9d&bookmarkUsage=1&ctid=cba9e115-3016-4462-a1ab-a565cba0cdf1&portalSessionId=6c40ee93-4380-4800-a1ec-67ce8a0bafda&fromEntryPoint=export
+
 ---
 
 ## Project Overview
