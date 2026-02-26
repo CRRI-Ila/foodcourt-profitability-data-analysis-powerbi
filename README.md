@@ -13,7 +13,10 @@ This project presents a business analytics study of a foodcourts business operat
 The dashboard was developed using Power BI to analyze financial performance together with operational factors affecting both business outcomes and employee workload. The project demonstrates how data analytics can be applied to real business environments to identify improvement opportunities.
 
 ---
-
+## Key Questions
+- How can we improve profitability?
+- How can we improve staff well-being during peak hours?
+- 
 ## Project Objectives
 
 The analysis aimed to address the following business questions:
